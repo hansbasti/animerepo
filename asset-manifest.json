@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/animerepo/static/js/main.1224a0ea.js",
+    "main.js": "/animerepo/static/js/main.aee81f0b.js",
     "index.html": "/animerepo/index.html",
-    "main.1224a0ea.js.map": "/animerepo/static/js/main.1224a0ea.js.map"
+    "main.aee81f0b.js.map": "/animerepo/static/js/main.aee81f0b.js.map"
   },
   "entrypoints": [
-    "static/js/main.1224a0ea.js"
+    "static/js/main.aee81f0b.js"
   ]
 }
