@@ -38,7 +38,7 @@ export default function App (){
         <div>
             <Header />
             {animeList}
-            <pre>{JSON.stringify(trendingAnime, null, 3)}</pre>
+
             <Footer />
         </div>
     )
